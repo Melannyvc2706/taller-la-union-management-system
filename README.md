@@ -1,7 +1,7 @@
 
 ## About the Project
 
-This is a web-based automotive workshop management system designed to streamline daily operations, manage customer information, track vehicles, control inventory, schedule appointments, and monitor financial records.
+This is a web-based management system for automotive repair shops, designed to streamline daily operations, manage customer information, track vehicles, control inventory, schedule appointments, and monitor financial records.
 
 ## Technologies Used
 
